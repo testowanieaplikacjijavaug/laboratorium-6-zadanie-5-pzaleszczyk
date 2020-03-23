@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FriendshipsTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-03-23T13:36:40" hostname="LAPTOP-BMKRSQB4" time="0.034">
+  <properties/>
+  <testcase name="TestPerson2Null" classname="FriendshipsTest" time="0.01"/>
+  <testcase name="TestMakeFriendsAppendingList" classname="FriendshipsTest" time="0.002"/>
+  <testcase name="TestExceptionPerson1empty" classname="FriendshipsTest" time="0.0"/>
+  <testcase name="TestExceptionPerson2empty" classname="FriendshipsTest" time="0.0"/>
+  <testcase name="TestPerson1Empty" classname="FriendshipsTest" time="0.0"/>
+  <testcase name="TestPerson2Empty" classname="FriendshipsTest" time="0.0"/>
+  <testcase name="TestExceptionPerson1null" classname="FriendshipsTest" time="0.0"/>
+  <testcase name="TestExceptionPerson2null" classname="FriendshipsTest" time="0.0"/>
+  <testcase name="TestTrueFriends" classname="FriendshipsTest" time="0.0"/>
+  <testcase name="ShouldReturnFriendshipList" classname="FriendshipsTest" time="0.012"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPerson1IsNullInAreFriends" classname="FriendshipsTest" time="0.0"/>
+  <testcase name="TestCheckIfSecondPersonIsFriend" classname="FriendshipsTest" time="0.0"/>
+  <testcase name="TestMakeFriendsWithEmptyList" classname="FriendshipsTest" time="0.001"/>
+  <testcase name="TestFalseFriends" classname="FriendshipsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
